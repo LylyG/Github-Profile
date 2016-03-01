@@ -1,6 +1,6 @@
 <h1>Enter a Github username to view their repository list</h1>
 <img src="https://octodex.github.com/images/nyantocat.gif" width="20%" height="20%">
-<%= form_tag repo_list_ask_path do %>
+<%= form_tag repo_list_show_path do %>
   <%= text_field_tag :username %>
   <%= button_tag "Find Repos" %>
 <% end %>
