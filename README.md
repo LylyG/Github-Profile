@@ -1,21 +1,9 @@
-# Placeholder Title
+# Github Profiles
 
 ## Description
-Stuff
+Users can submit a Github username into the form and retrieve a list of their remote repositories. 
 
-## API Documentation
-Stuff
-
-### How it Works
-Stuff
-
-```Ruby
-Code goes here
-```
-Stuff
-
-### Stuff
+### Installation
 * Clone this repository to your computer
 * Run ```bundle install```
-* Registering for an API is optional, please visit <a href="http://www.developer.spotify.com" target="_blank"> Spotify.com
-* Register for an API at <a href="http://food2fork.com/" target="_blank">Food2Fork.com</a>
+* First log into your Github account and <a href="http://www.developer.spotify.com" target="_blank"> click here</a> to register for an OAuth access token.
