@@ -3,5 +3,7 @@ class RepoListController < ApplicationController
   end
 
   def show
+    :username = params[:username]
+    @user = RepoList.new(:username)
   end
 end

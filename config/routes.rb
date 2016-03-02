@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   get 'repo_list/ask'
 
   post 'repo_list/show'
+  get  'repo_list/show'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
